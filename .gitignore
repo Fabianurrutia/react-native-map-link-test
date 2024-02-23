@@ -1,0 +1,12 @@
+node_modules
+.idea
+.vscode
+package-lock.json
+example/yarn.lock
+
+# Jest
+#
+.jest/
+
+# ts outDir
+lib/
