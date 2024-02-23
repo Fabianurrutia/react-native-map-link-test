@@ -1,5 +1,3 @@
 {
-  "release": {
-    "branch": "main"
-  }
+  "branches": ["main"]
 }
